@@ -1,0 +1,1 @@
+web: java -jar build/libs/precoscombustiveisapi-shadow-1.0.jar
